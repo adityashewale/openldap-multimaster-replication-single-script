@@ -1,1 +1,1 @@
-openldap multi master replication script  
+openldap high availability  
